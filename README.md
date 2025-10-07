@@ -1,0 +1,1 @@
+Ce notebook a pour objectif de présenter le modèle binomial d’évaluation des options. Nous commencerons par exposer l’approche théorique de ce modèle, en détaillant ses fondements et ses principales formules. Dans un second temps, nous procéderons à son implémentation sous la forme d’une classe capable de calculer le prix d’options européennes de type call et put.
